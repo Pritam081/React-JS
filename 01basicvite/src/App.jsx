@@ -1,10 +1,11 @@
-import Chai from "./chai"
 function App() {
+  const userName = "Pritam"
+      // that is evualvated expresiion {userName} it's final evualvation
 
   return (
     <>
-        <Chai />
-        <h1>Chai aur react</h1>
+    <h1>Chai aur code {userName}</h1>  
+    // that is evualvated expresiion
     </>
   )
 }
