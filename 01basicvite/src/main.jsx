@@ -6,7 +6,7 @@ import React from 'react'
 // function MyApp() {
 //   return (
 //     <>
-//     <h1>Chai aur mai !</h1>
+//     <h1>Chai aur Pritam</h1>
 //     </>
 //   )
 // }
@@ -38,6 +38,6 @@ const reactElement = React.createElement(
 createRoot(document.getElementById('root')).render(
    // <MyApp />
    // newElement
-   reactElement
-   //<App />
+   //reactElement
+   <App />
 )
