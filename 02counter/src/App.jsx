@@ -12,6 +12,10 @@ if(counter == 20){
   setCounter(20)
 }else{
   setCounter(++counter)
+  // setCounter(prevCounter => prevCounter++)
+  // setCounter(prevCounter => prevCounter++)
+  // setCounter(prevCounter => prevCounter++)
+  // setCounter(prevCounter => prevCounter++)
 }
 }
 const removeValue = ()=>{ 
